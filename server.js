@@ -15,7 +15,9 @@ app.use(cors({
     'http://localhost:3001',
     'http://localhost:3002',
     'https://vvm-frontend-client.vercel.app',
-    'https://vvm-frontend-admin.vercel.app'
+    'https://vvm-frontend-admin.vercel.app',
+    'https://website-client-zeta.vercel.app',
+    'https://website-admin-delta-six.vercel.app'
   ],
   methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization'],
