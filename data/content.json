@@ -1,0 +1,81 @@
+{
+  "testimonials": [
+    {
+      "init": "RK",
+      "name": "Rajesh Kumar",
+      "role": "MD, Spice World Pvt. Ltd., Chennai",
+      "quote": "VVM Traders has been our go-to supplier for cardamom and pepper for three years. Exceptional quality, consistent grading, and they never miss a delivery window.",
+      "stars": 5
+    },
+    {
+      "init": "PS",
+      "name": "Priya Sharma",
+      "role": "Procurement Head, Heritage Hotels, Jaipur",
+      "quote": "Their Masala Tea blend is outstanding — our hotel guests love it. Private labelling was seamless, and the team was incredibly responsive throughout."
+    },
+    {
+      "init": "AM",
+      "name": "Arun Menon",
+      "role": "Director, Global Agri Exports, Kochi",
+      "quote": "We source turmeric, chilli powder, and jeera in bulk from VVM. The FSSAI certification and custom packaging made compliance effortless for our export business."
+    }
+  ],
+  "whyUs": [
+    {
+      "icon": "🌾",
+      "num": "01",
+      "title": "Source Integrity",
+      "body": "Transparent supply chains with direct farmer partnerships across Kerala, Rajasthan, Gujarat, and major spice belts."
+    },
+    {
+      "icon": "🏅",
+      "num": "02",
+      "title": "Grade-Certified",
+      "body": "All products meet FSSAI standards. Organic-certified and export-grade variants available with full documentation."
+    },
+    {
+      "icon": "🎛️",
+      "num": "03",
+      "title": "Custom Orders",
+      "body": "Bulk orders, bespoke masala blends."
+    },
+    {
+      "icon": "🗺️",
+      "num": "04",
+      "title": "Pan-India Reach",
+      "body": "From Kashmir to Kanyakumari, our distribution network ensures reliable, timely delivery across the country."
+    }
+  ],
+  "process": [
+    {
+      "icon": "🌾",
+      "n": "01",
+      "title": "Sourcing",
+      "body": "Direct procurement from certified farms and cooperatives."
+    },
+    {
+      "icon": "🔬",
+      "n": "02",
+      "title": "Quality Check",
+      "body": "Lab testing for purity, moisture, and grade compliance."
+    },
+    {
+      "icon": "⚙️",
+      "n": "03",
+      "title": "Processing",
+      "body": "Cleaning, grading, and processing in certified facilities."
+    },
+    {
+      "icon": "📦",
+      "n": "04",
+      "title": "Packaging",
+      "body": "Custom bulk, retail, or private label packaging."
+    },
+    {
+      "icon": "🚚",
+      "n": "05",
+      "title": "Delivery",
+      "body": "Fast, tracked dispatch across all Indian states."
+    }
+  ]
+}
